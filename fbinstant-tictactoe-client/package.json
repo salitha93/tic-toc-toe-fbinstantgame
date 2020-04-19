@@ -16,7 +16,7 @@
     "gulp-zip": "^4.1.0",
     "html2canvas": "^1.0.0-alpha.10",
     "natives": "^1.1.6",
-    "open": "^0.0.5",
+    "open": "^6.0.0",
     "request": "^2.83.0"
   },
   "devDependencies": {
